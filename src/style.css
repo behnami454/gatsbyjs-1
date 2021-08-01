@@ -83,8 +83,13 @@ body {
   color: var(--color-text);
 }
 
+
 footer {
   padding: var(--spacing-6) var(--spacing-0);
+}
+button{
+  background-color: white;
+  color: black;
 }
 
 hr {
